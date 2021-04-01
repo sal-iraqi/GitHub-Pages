@@ -6,7 +6,8 @@ My name is **Salwan Shathar**, and I am currently a second year student at **UC 
 ### Coding Experience
 My coding journey started out back in highschool on Java for AP Comp Sci. 
 Ever since then, I have been interested in programming applications, and so I have picked up more programming languages along the way, 
-including C, C++, C#, and ARM Assembly. I have also had some and continuing to build experience on game development using Unity.
+including C, C++, C#, and ARM Assembly. I have also had some and continuing to build experience on game development using Unity. Through programming, I learned Einstein's quote figuratively and quite literally:
+> "Insanity is doing the same thing over and over again and expecting different results."
 
 With all these years of coding, I can sum up my daily schedule with this code snippet:
 ```
