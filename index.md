@@ -26,6 +26,7 @@ I have lived almost half of my life in the US. I lived the other half in the Mid
 - Tennis
 - Working out
 - Catching up on anime
+- Listening to music (this is currently my [favorite song](https://youtu.be/dQw4w9WgXcQ))
 
 For my life goals, I currently have (rather vaguely):
 - [x] Graduate High School
