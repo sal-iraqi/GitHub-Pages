@@ -25,6 +25,7 @@ I have lived almost half of my life in the US. I lived the other half in the Mid
 - Playing Music
 - Tennis
 - Working out
+- Hiking
 - Catching up on anime
 - Listening to music (this is currently my [favorite song](https://youtu.be/dQw4w9WgXcQ))
 
